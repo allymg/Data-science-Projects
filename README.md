@@ -1,4 +1,4 @@
-# Data-science-Projects
+# Overview 
 
-Welcome! This repository contains all the data science projects that I have worked on in Python. 
+Welcome! In this repository you will find the data science projects that I have worked on, all the code is written in Python. 
 
